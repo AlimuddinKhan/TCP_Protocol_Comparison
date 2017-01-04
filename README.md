@@ -1,6 +1,6 @@
 # Comparison of Different TCP flavors
 ##### contributors: 
-Alimudin Khan (aak5031@rit.edu) and 
+Alimuddin Khan (aak5031@rit.edu) and 
 Nisha Bhanushali (nnb7791@rit.edu )
 ***
 ### Goals of TCP 
